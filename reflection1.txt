@@ -19,4 +19,4 @@ How might using version control make you more confident to make changes that cou
 You have the assurance that you can restore your previous files.
 
 Now that you have your workspace set up, what do you want to try using Git for?
-Buiding repositories of my work.
+Buiding repositories of my work.ds
